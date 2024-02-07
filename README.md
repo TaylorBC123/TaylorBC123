@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TaylorBC123
-- 👀 I’m interested in cybersecurity
+<h1>Hi, I'm Taylor. Welcome to my page </h1>
 
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
-<!---
-TaylorBC123/TaylorBC123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <b>Building and using a SIEM)</b>
+  
+
